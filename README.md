@@ -8,3 +8,15 @@ collection of some useful autohotkey scripts
  * For non-ahk users: [exefiles\Caps.exe]
  * [Read the instructions](https://github.com/KamalAwasthi/AutoHotKey-Tools/blob/master/Caps-Lock-Status-Tooltip/ahk_file/ReadMe.pdf) 
  * To download the script click [here](https://github.com/KamalAwasthi/AutoHotKey-Tools/archive/master.zip).
+
+
+
+##[Auto_Refresh](https://github.com/KamalAwasthi/AutoHotKey-Tools/tree/master/Auto_Refresh)
+ An Autothotkey Script to refresh the current active tab on Google Chrome with a Hotkey(or group of keys).<br>
+ 
+ * * *
+ 
+* For ahk users:[ahkfiles\AutoRefresh.ahk]
+* For exe users:[exefiles\AutoRefresh.exe]
+* [Read the Instructions to use](https://github.com/KamalAwasthi/AutoHotKey-Tools/blob/master/Auto_Refresh/ahk%20files/ReadMe.pdf)
+* To download the script click [here](https://github.com/KamalAwasthi/AutoHotKey-Tools/archive/master.zip).
