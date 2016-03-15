@@ -20,3 +20,15 @@ collection of some useful autohotkey scripts
 * For exe users:[exefiles\AutoRefresh.exe]
 * [Read the Instructions to use](https://github.com/KamalAwasthi/AutoHotKey-Tools/blob/master/Auto_Refresh/ahk%20files/ReadMe.pdf)
 * To download the script click [here](https://github.com/KamalAwasthi/AutoHotKey-Tools/archive/master.zip).
+
+
+
+##[My_Shortcuts](https://github.com/KamalAwasthi/AutoHotKey-Tools/tree/master/My-Shortcuts)
+ An Autothotkey Script that generates a window with the names of most commonly visited places and their shortcuts.You can edit those shortcuts and set them as your wish.<br>
+ 
+ * * *
+ 
+* For ahk users:[ahkfiles\myshortcut.ahk]
+* For exe users:[exefiles\myshortcut.exe]
+* [Read the Instructions to use](https://github.com/KamalAwasthi/AutoHotKey-Tools/blob/master/My-Shortcuts/ahk%20Files/ReadMe.pdf)
+* To download the script click [here](https://github.com/KamalAwasthi/AutoHotKey-Tools/archive/master.zip).
